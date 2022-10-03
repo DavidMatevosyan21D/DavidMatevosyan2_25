@@ -1,0 +1,6 @@
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/obj/Debug/matevosyan_2_35.csprojAssemblyReference.cache
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/obj/Debug/matevosyan_2_35.csproj.CoreCompileInputs.cache
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/bin/Debug/matevosyan_2_35.exe
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/bin/Debug/matevosyan_2_35.pdb
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/obj/Debug/matevosyan_2_35.exe
+/Users/user/Projects/matevosyan_2_35/matevosyan_2_35/obj/Debug/matevosyan_2_35.pdb
